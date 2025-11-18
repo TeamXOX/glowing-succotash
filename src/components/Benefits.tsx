@@ -46,10 +46,10 @@ export default function Benefits() {
     <section id="benefits" className="py-24 bg-gradient-dark">
       <div className="container-custom">
         <h2 className="section-title text-center">
-          Why <span className="gradient-text">OBSERVE</span>?
+          Why <span className="gradient-text">Simplify Translations</span>?
         </h2>
         <p className="section-subtitle text-center text-gray-400">
-          Because understanding literature deeply is a form of power. Know what others miss.
+          Because complex language shouldn't block you from experiencing the world's greatest literature. Clarity unlocks understanding.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">

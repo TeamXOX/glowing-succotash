@@ -2,51 +2,51 @@ export default function Steps() {
   const steps = [
     {
       number: 1,
-      title: "Recognize the Noise",
-      description: "Identify what's obscuring the truth. Archaic language. Verbose descriptions. Complex narrative structures. All the things that separate you from understanding the character.",
-      example: "'Brothers Karamzov' hides its truth beneath Russian naming conventions and 19th-century philosophical tangents."
+      title: "Identify Difficult Translations",
+      description: "Start by recognizing where translations become barriers. Old-fashioned vocabulary, complex syntax from another language, cultural idioms that don't translate well. These are what slow you down and cloud understanding.",
+      example: "Brothers Karamazov: 'laceration of feeling' (старые переводы) → 'deep emotional pain'. 'He was in a state of continual trepidation' → 'He was constantly anxious.'"
     },
     {
       number: 2,
-      title: "Translate the Mask",
-      description: "Strip away the camouflage. Convert archaic words into clear, modern language. What was hidden becomes visible. What was obscured becomes obvious.",
-      example: "'The veracity of his countenance betrayed his inner tumult' becomes 'His face showed how troubled he felt.' Clarity. Honesty."
+      title: "Replace Archaic Words with Modern Equivalents",
+      description: "Every difficult word gets a simple replacement. 'Countenance' becomes 'face'. 'Melancholy' becomes 'sadness'. 'Veracity' becomes 'truth'. The meaning stays identical—only clarity improves.",
+      example: "'His demeanor exhibited profound perturbation' → 'He looked deeply troubled.' Same meaning. 50% faster to read. 100% easier to understand."
     },
     {
       number: 3,
-      title: "Simplify Without Loss",
-      description: "Break down convoluted sentences into direct ones. Long, winding prose becomes lean and sharp. But the meaning—the psychological weight—it stays intact.",
-      example: "'Having pondered deeply upon suffering...' becomes 'After thinking about suffering.' Simpler. Stronger. More powerful."
+      title: "Break Down Complex Sentences",
+      description: "Long, multi-clause sentences get split into shorter, clearer ones. Each thought stands alone. No meaning is lost—just the cognitive burden of parsing complicated grammar structures.",
+      example: "'Having reflected upon the matter with considerable gravity, taking into account all circumstances...' → 'He thought carefully about it. He considered everything.' Faster reading. Same depth."
     },
     {
       number: 4,
-      title: "Extract What Matters",
-      description: "Separate signal from noise. The character's guilt. Their obsessions. Their darkness. That's what matters. Everything else is distraction.",
-      example: "In 'Brothers Karamzov': Dmitri's guilt, Ivan's philosophy, Alyosha's redemption. These are the truths. The rest is noise."
+      title: "Extract Core Psychological Truths",
+      description: "Every scene has an emotional truth. Find it. State it clearly. This is what the author wanted you to feel—not the flowery description, but the raw human experience underneath.",
+      example: "In Brothers Karamazov: 'Dmitri wrestles with guilt over his father' is the truth. Pages of description become this single, powerful insight you'll never forget."
     },
     {
       number: 5,
-      title: "Add Context, Not Clutter",
-      description: "Provide the missing pieces. Historical context. Cultural references. Philosophical background. Information that clarifies, not complicates.",
-      example: "Russian naming traditions. The cultural darkness of 19th century. The philosophical movements driving these characters."
+      title: "Add Brief Cultural Context",
+      description: "When a reference needs background, add it—but keep it short. One sentence explaining a Russian custom. Two sentences on 19th-century philosophy. Context that illuminates, never overwhelms.",
+      example: "'Why three names?' → Add note: 'Russians use First Name + Patronymic + Surname. Dmitri Fyodorovich Karamazov = Dmitri, son of Fyodor Karamazov.' Now you understand."
     },
     {
       number: 6,
-      title: "Preserve the Essence",
-      description: "Even in simplification, maintain the author's voice. Dostoevsky's introspection. His intensity. His darkness. Don't lose that. Just make it clearer.",
-      example: "The psychological weight remains. The emotional truth stays. Only the unnecessary complexity disappears."
+      title: "Preserve Author's Voice & Intensity",
+      description: "Simplification doesn't mean dilution. Dostoevsky's intensity remains. His psychological depth stays. His darkness persists. You're clarifying the language, not weakening the impact.",
+      example: "Keep: 'His soul was torn between love and hatred.' This is simple AND powerful. Remove flowery additions that obscure this core truth."
     },
     {
       number: 7,
-      title: "Verify Perfect Comprehension",
-      description: "Test yourself. Can you see the character? Can you explain their choices? Do the plot points connect? Is the impact still there?",
-      example: "You should know Dmitri as well as if you'd watched him. His guilt should feel real. The ending should devastate you."
+      title: "Test Your Understanding",
+      description: "After simplifying, verify nothing was lost. Can you explain character motivations? Do plot points connect? Is the emotional impact still there? If yes, you've succeeded.",
+      example: "Ask yourself: 'Could I explain Dmitri's guilt to someone?' If you can articulate it clearly, the essence is preserved. That's the test."
     },
     {
       number: 8,
-      title: "Build Your Reference Map",
-      description: "Create a companion guide. Character maps. Timelines. Key quotes. A visual representation of who these people are and what drives them.",
-      example: "Character relationship diagrams. Timeline of events. Character motivations charted. Everything visible at once."
+      title: "Create Visual Reference Guides",
+      description: "Build simple tools: character relationship maps, timeline of events, one-sentence character motivations. These accelerate comprehension and cement memory better than reading word-by-word ever could.",
+      example: "One page: Character web showing relationships. One page: Timeline. One page: Core themes. These three pages give you more understanding than 500 pages of dense text."
     }
   ]
 
@@ -54,10 +54,10 @@ export default function Steps() {
     <section id="steps" className="py-24 bg-gradient-dark">
       <div className="container-custom">
         <h2 className="section-title text-center font-serif">
-          The <span className="gradient-text">8-Step Analysis</span>
+          The <span className="gradient-text">8-Step Translation Method</span>
         </h2>
         <p className="section-subtitle text-center text-gray-400">
-          The method for peeling back layers. For seeing what others miss. For understanding at a level most readers never reach.
+          Transform difficult translations into crystal-clear understanding. Read faster. Comprehend deeper. Remember everything. All without losing a single ounce of essence.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -84,10 +84,10 @@ export default function Steps() {
 
         <div className="mt-16 bg-gradient-to-r from-red-950/40 to-red-900/30 border border-red-800/40 rounded-2xl p-8 md:p-12 text-white text-center glow-red">
           <h3 className="text-3xl md:text-4xl font-bold mb-4 font-serif">
-            The Result: <span className="text-red-400">Complete Understanding</span>
+            The Result: <span className="text-red-400">Read 2x Faster, Understand 10x Better</span>
           </h3>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto mb-8">
-            You'll read faster. You'll understand deeper. You'll remember everything. But most importantly—you'll <span className="text-red-400 font-semibold">see</span> these characters. Really see them. You'll know their secrets better than they know themselves.
+            Every difficult word becomes simple. Every complex sentence becomes clear. Yet the depth, the psychology, the essence—it all stays intact. You gain the understanding of reading every word, but at twice the speed and with perfect comprehension.
           </p>
           <div className="flex gap-4 justify-center flex-wrap">
             <button className="bg-gradient-to-r from-red-900 to-red-800 text-white px-8 py-3 rounded-lg font-bold hover:shadow-lg hover:shadow-red-700/50 transition-all hover:scale-105">

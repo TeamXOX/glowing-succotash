@@ -9,39 +9,39 @@ export default function Hero() {
 
       <div className="container-custom text-center relative z-10">
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight font-serif text-white">
-          Know <span className="gradient-text">Every Character</span>
-          <br /> Like You've <span className="text-red-400">Never Known</span> Them Before
+          Master <span className="gradient-text">Classic Books</span>
+          <br /> Without the <span className="text-red-400">Difficult Language</span>
         </h1>
 
         <p className="text-lg md:text-2xl text-gray-300 mb-10 max-w-3xl mx-auto leading-relaxed font-light">
-          Peel back the layers of classic literature. From <em className="text-red-400">Brothers Karamzov</em> to the darkest psychological depths—understand every motivation, every secret, every hidden truth without drowning in archaic language.
+          Transform complex translations into crystal-clear understanding. <em className="text-red-400">Brothers Karamazov</em>, Tolstoy, Dostoevsky—experience their full psychological depth using simple, modern language that preserves every ounce of essence.
         </p>
 
         <p className="text-md text-gray-400 mb-10 max-w-2xl mx-auto italic">
-          "It's not enough to read. You have to understand. You have to <span className="text-red-400 font-semibold">see</span> them."
+          "Difficult words obscure meaning. Simple words reveal truth. Same depth. Zero confusion."
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
           <button className="btn-primary text-lg font-serif">
-            Start Observing
+            Learn the Method
           </button>
           <button className="btn-secondary text-lg font-serif">
-            The Dark Method
+            See Examples
           </button>
         </div>
 
         <div className="grid grid-cols-3 gap-4 md:gap-8 text-center max-w-2xl mx-auto">
           <div className="bg-red-950/20 border border-red-800/30 rounded-lg p-4 backdrop-blur">
-            <div className="text-3xl font-bold text-red-400 mb-2">50%</div>
-            <p className="text-sm text-gray-300">Time Saved</p>
+            <div className="text-3xl font-bold text-red-400 mb-2">2x</div>
+            <p className="text-sm text-gray-300">Reading Speed</p>
           </div>
           <div className="bg-red-950/20 border border-red-800/30 rounded-lg p-4 backdrop-blur">
             <div className="text-3xl font-bold text-red-400 mb-2">100%</div>
-            <p className="text-sm text-gray-300">Depth Preserved</p>
+            <p className="text-sm text-gray-300">Essence Preserved</p>
           </div>
           <div className="bg-red-950/20 border border-red-800/30 rounded-lg p-4 backdrop-blur">
-            <div className="text-3xl font-bold text-red-400 mb-2">500+</div>
-            <p className="text-sm text-gray-300">Books Analyzed</p>
+            <div className="text-3xl font-bold text-red-400 mb-2">0%</div>
+            <p className="text-sm text-gray-300">Confusion</p>
           </div>
         </div>
       </div>
